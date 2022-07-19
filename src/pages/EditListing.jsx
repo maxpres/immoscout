@@ -459,9 +459,7 @@ function EditListing() {
           )}
 
           <label className='formLabel'>Images</label>
-          <p className='imagesInfo'>
-            The first image will be the cover (max 6).
-          </p>
+          <p className='imagesInfo'>Das erste Bild ist das Cover (max. 6).</p>
           <input
             className='formInputFile'
             type='file'
